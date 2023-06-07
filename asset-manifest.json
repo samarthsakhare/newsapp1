@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/samarthsakhare/newsapp1/static/css/main.7c415d48.css",
+    "main.js": "/samarthsakhare/newsapp1/static/js/main.452e68b7.js",
+    "static/media/Spinner-1s-200px.gif": "/samarthsakhare/newsapp1/static/media/Spinner-1s-200px.e341f13f6f821aa4c4ff.gif",
+    "index.html": "/samarthsakhare/newsapp1/index.html",
+    "main.7c415d48.css.map": "/samarthsakhare/newsapp1/static/css/main.7c415d48.css.map",
+    "main.452e68b7.js.map": "/samarthsakhare/newsapp1/static/js/main.452e68b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c415d48.css",
+    "static/js/main.452e68b7.js"
+  ]
+}
